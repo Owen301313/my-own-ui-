@@ -462,7 +462,7 @@ Library v0.36 [
 ]]
 local library = {
 	Version = "0.36",
-	WorkspaceName = "Pepsi Lib",
+	WorkspaceName = "Metal.xyz",
 	flags = {},
 	signals = {},
 	objects = {},
@@ -477,10 +477,10 @@ local library = {
 		easingDirection = Enum.EasingDirection.Out
 	},
 	colors = {
-		main = Color3.fromRGB(255, 39, 39),
+		main = Color3.fromRGB(30, 144, 255),
 		background = Color3.fromRGB(40, 40, 40),
 		outerBorder = Color3.fromRGB(15, 15, 15),
-		innerBorder = Color3.fromRGB(73, 63, 73),
+		innerBorder = Color3.fromRGB(30, 144, 255),
 		topGradient = Color3.fromRGB(35, 35, 35),
 		bottomGradient = Color3.fromRGB(29, 29, 29),
 		sectionBackground = Color3.fromRGB(35, 34, 34),
